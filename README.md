@@ -1,3 +1,3 @@
 # Aditya-demo
 This is my first repository <br>
-Author - Aditya Patil
+Author - Aditya Patil(Adidemo)
